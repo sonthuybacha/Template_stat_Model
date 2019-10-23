@@ -1,1 +1,1 @@
-# Template_stat_Model
+# Template_Statistical_Modeling
